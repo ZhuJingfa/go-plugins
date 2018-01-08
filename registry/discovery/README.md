@@ -32,7 +32,7 @@ go run main.go --registry=os --registry_address=addr1:port,addr2:port,addr3:port
 
 ```go
 import (
-	"github.com/micro/go-micro"
+	"micro/go-micro"
 	"micro/go-plugins/registry/discovery"
 )
 

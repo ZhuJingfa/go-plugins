@@ -57,7 +57,7 @@ The same is achieved when calling ```service.Init```
 
 ```go
 import (
-	"github.com/micro/go-micro"
+	"micro/go-micro"
 	_ "micro/go-plugins/broker/rabbitmq"
 	_ "micro/go-plugins/registry/kubernetes"
 	_ "micro/go-plugins/transport/nats"
@@ -88,7 +88,7 @@ CLI Flags provide a simple way to initialise plugins but you can do the same you
 
 ```go
 import (
-	"github.com/micro/go-micro"
+	"micro/go-micro"
 	"micro/go-plugins/registry/kubernetes"
 )
 

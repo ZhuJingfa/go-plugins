@@ -18,7 +18,7 @@ go run main.go --registry=memory
 
 ```go
 import (
-	"github.com/micro/go-micro"
+	"micro/go-micro"
 	"micro/go-plugins/registry/memory"
 )
 
@@ -34,7 +34,7 @@ func main() {
 
 ```go
 import (
-	"github.com/micro/go-micro"
+	"micro/go-micro"
 	"micro/go-micro/registry"
 	"micro/go-plugins/registry/memory"
 )
