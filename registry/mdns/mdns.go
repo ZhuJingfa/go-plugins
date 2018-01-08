@@ -2,8 +2,8 @@
 package mdns
 
 import (
-	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-micro/registry/mdns"
+  "micro/go-micro/registry"
+  "micro/go-micro/registry/mdns"
 )
 
 /*

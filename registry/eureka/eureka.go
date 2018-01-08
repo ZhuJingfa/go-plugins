@@ -12,8 +12,8 @@ import (
 	"golang.org/x/net/context"
 
 	"github.com/hudl/fargo"
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/cmd"
+  "micro/go-micro/registry"
 	"github.com/op/go-logging"
 )
 

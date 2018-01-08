@@ -1,7 +1,7 @@
 package nats
 
 import (
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/registry"
 )
 
 func addNodes(old, neu []*registry.Node) []*registry.Node {

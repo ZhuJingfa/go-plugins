@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/cmd"
+  "micro/go-micro/registry"
 	"github.com/pborman/uuid"
 	"golang.org/x/net/context"
 )

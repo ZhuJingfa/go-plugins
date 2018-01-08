@@ -1,7 +1,7 @@
 package sqs
 
 import (
-	"github.com/micro/go-micro/broker"
+  "micro/go-micro/broker"
 	"golang.org/x/net/context"
 )
 

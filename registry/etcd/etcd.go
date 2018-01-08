@@ -13,8 +13,8 @@ import (
 	"time"
 
 	etcd "github.com/coreos/etcd/client"
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/cmd"
+  "micro/go-micro/registry"
 	"golang.org/x/net/context"
 )
 

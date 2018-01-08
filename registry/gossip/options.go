@@ -1,7 +1,7 @@
 package gossip
 
 import (
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/registry"
 
 	"golang.org/x/net/context"
 )

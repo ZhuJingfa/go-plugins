@@ -3,9 +3,9 @@ package label
 import (
 	"testing"
 
-	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-micro/registry/mock"
-	"github.com/micro/go-micro/selector"
+  "micro/go-micro/registry"
+  "micro/go-micro/registry/mock"
+  "micro/go-micro/selector"
 )
 
 func TestPrioritiseFunc(t *testing.T) {

@@ -11,8 +11,8 @@ import (
 	uuid "github.com/nu7hatch/gouuid"
 	"github.com/streadway/amqp"
 
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/transport"
+  "micro/go-micro/cmd"
+  "micro/go-micro/transport"
 )
 
 const (

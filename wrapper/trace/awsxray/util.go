@@ -7,8 +7,8 @@ import (
 	"time"
 
 	"github.com/micro/go-awsxray"
-	"github.com/micro/go-micro/errors"
-	"github.com/micro/go-micro/metadata"
+  "micro/go-micro/errors"
+  "micro/go-micro/metadata"
 	"golang.org/x/net/context"
 )
 

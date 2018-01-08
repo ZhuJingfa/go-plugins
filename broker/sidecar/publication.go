@@ -1,7 +1,7 @@
 package sidecar
 
 import (
-	"github.com/micro/go-micro/broker"
+  "micro/go-micro/broker"
 )
 
 type publication struct {

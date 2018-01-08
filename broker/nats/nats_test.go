@@ -5,7 +5,7 @@ import (
 
 	"fmt"
 
-	"github.com/micro/go-micro/broker"
+  "micro/go-micro/broker"
 )
 
 // TestInitAddrs tests issue #100. Ensures that if the addrs is set by an option in init it will be used.

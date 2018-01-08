@@ -7,7 +7,7 @@ import (
 	"sync"
 
 	"github.com/micro/go-log"
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/registry"
 	"github.com/micro/go-plugins/registry/kubernetes/client"
 	"github.com/micro/go-plugins/registry/kubernetes/client/watch"
 )

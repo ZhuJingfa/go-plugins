@@ -7,7 +7,7 @@ import (
 
 	"github.com/gorilla/websocket"
 	"github.com/micro/go-log"
-	"github.com/micro/go-micro/broker"
+  "micro/go-micro/broker"
 )
 
 const (

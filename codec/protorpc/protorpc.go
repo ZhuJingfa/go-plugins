@@ -4,8 +4,8 @@ package protorpc
 import (
 	"io"
 
-	"github.com/micro/go-micro/codec"
-	"github.com/micro/go-micro/codec/protorpc"
+  "micro/go-micro/codec"
+  "micro/go-micro/codec/protorpc"
 )
 
 /*

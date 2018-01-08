@@ -1,7 +1,7 @@
 package label
 
 import (
-	"github.com/micro/go-micro/selector"
+  "micro/go-micro/selector"
 	"golang.org/x/net/context"
 )
 

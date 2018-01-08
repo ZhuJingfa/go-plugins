@@ -5,8 +5,8 @@ import (
 	"crypto/tls"
 	"net"
 
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/transport"
+  "micro/go-micro/cmd"
+  "micro/go-micro/transport"
 	maddr "github.com/micro/misc/lib/addr"
 	mnet "github.com/micro/misc/lib/net"
 	mls "github.com/micro/misc/lib/tls"

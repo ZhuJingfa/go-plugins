@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-micro/selector"
+  "micro/go-micro/registry"
+  "micro/go-micro/selector"
 )
 
 type blacklistSelector struct {

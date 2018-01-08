@@ -4,7 +4,7 @@ import (
 	"runtime/debug"
 
 	"github.com/micro/go-log"
-	"github.com/micro/go-micro/transport"
+  "micro/go-micro/transport"
 	pb "github.com/micro/go-plugins/transport/grpc/proto"
 )
 

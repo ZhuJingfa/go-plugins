@@ -3,8 +3,8 @@ package grpc
 import (
 	"testing"
 
-	"github.com/micro/go-micro/registry/mock"
-	"github.com/micro/go-micro/server"
+  "micro/go-micro/registry/mock"
+  "micro/go-micro/server"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 

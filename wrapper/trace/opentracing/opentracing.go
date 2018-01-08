@@ -4,9 +4,9 @@ package opentracing
 import (
 	"fmt"
 
-	"github.com/micro/go-micro/client"
-	"github.com/micro/go-micro/metadata"
-	"github.com/micro/go-micro/server"
+  "micro/go-micro/client"
+  "micro/go-micro/metadata"
+  "micro/go-micro/server"
 	"github.com/opentracing/opentracing-go"
 	"golang.org/x/net/context"
 )

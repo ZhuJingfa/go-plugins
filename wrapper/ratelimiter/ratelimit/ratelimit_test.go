@@ -6,11 +6,11 @@ import (
 	"time"
 
 	"github.com/juju/ratelimit"
-	"github.com/micro/go-micro/client"
-	"github.com/micro/go-micro/errors"
-	"github.com/micro/go-micro/registry/mock"
-	"github.com/micro/go-micro/selector"
-	"github.com/micro/go-micro/server"
+  "micro/go-micro/client"
+  "micro/go-micro/errors"
+  "micro/go-micro/registry/mock"
+  "micro/go-micro/selector"
+  "micro/go-micro/server"
 	"golang.org/x/net/context"
 )
 

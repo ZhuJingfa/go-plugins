@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-micro/server"
+  "micro/go-micro/cmd"
+  "micro/go-micro/registry"
+  "micro/go-micro/server"
 )
 
 type httpServer struct {

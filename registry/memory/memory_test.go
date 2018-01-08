@@ -3,7 +3,7 @@ package memory
 import (
 	"testing"
 
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/registry"
 )
 
 var (

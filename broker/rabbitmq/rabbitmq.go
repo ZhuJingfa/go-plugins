@@ -2,8 +2,8 @@
 package rabbitmq
 
 import (
-	"github.com/micro/go-micro/broker"
-	"github.com/micro/go-micro/cmd"
+  "micro/go-micro/broker"
+  "micro/go-micro/cmd"
 	"github.com/streadway/amqp"
 	"golang.org/x/net/context"
 )

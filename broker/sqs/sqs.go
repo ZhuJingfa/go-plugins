@@ -11,8 +11,8 @@ import (
 
 	"github.com/aws/aws-sdk-go/aws/awserr"
 	"github.com/micro/go-log"
-	"github.com/micro/go-micro/broker"
-	"github.com/micro/go-micro/cmd"
+  "micro/go-micro/broker"
+  "micro/go-micro/cmd"
 	"golang.org/x/net/context"
 )
 

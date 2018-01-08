@@ -10,7 +10,7 @@ import (
 	"net/url"
 	"sync"
 
-	"github.com/micro/go-micro/client"
+  "micro/go-micro/client"
 
 	"golang.org/x/net/context"
 )

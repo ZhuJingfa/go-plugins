@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"hash/crc32"
 
-	"github.com/micro/go-micro/client"
-	"github.com/micro/go-micro/errors"
-	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-micro/selector"
+  "micro/go-micro/client"
+  "micro/go-micro/errors"
+  "micro/go-micro/registry"
+  "micro/go-micro/selector"
 
 	proto "github.com/micro/quota-srv/proto"
 

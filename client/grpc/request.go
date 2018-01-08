@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/micro/go-micro/client"
+  "micro/go-micro/client"
 )
 
 type grpcRequest struct {

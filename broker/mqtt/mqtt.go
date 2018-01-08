@@ -23,9 +23,9 @@ import (
 
 	"github.com/eclipse/paho.mqtt.golang"
 	"github.com/micro/go-log"
-	"github.com/micro/go-micro/broker"
-	"github.com/micro/go-micro/broker/codec/json"
-	"github.com/micro/go-micro/cmd"
+  "micro/go-micro/broker"
+  "micro/go-micro/broker/codec/json"
+  "micro/go-micro/cmd"
 )
 
 type mqttBroker struct {

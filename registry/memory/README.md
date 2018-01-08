@@ -35,7 +35,7 @@ func main() {
 ```go
 import (
 	"github.com/micro/go-micro"
-	"github.com/micro/go-micro/registry"
+	"micro/go-micro/registry"
 	"github.com/micro/go-plugins/registry/memory"
 )
 

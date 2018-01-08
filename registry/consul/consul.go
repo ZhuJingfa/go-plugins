@@ -2,8 +2,8 @@
 package consul
 
 import (
-	"github.com/micro/go-micro/registry"
-	"github.com/micro/go-micro/registry/consul"
+  "micro/go-micro/registry"
+  "micro/go-micro/registry/consul"
 )
 
 /*

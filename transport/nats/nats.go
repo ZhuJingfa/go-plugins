@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-micro/cmd"
-	"github.com/micro/go-micro/transport"
-	"github.com/micro/go-micro/transport/codec/json"
+  "micro/go-micro/cmd"
+  "micro/go-micro/transport"
+  "micro/go-micro/transport/codec/json"
 	"github.com/nats-io/nats"
 )
 

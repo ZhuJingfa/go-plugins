@@ -4,9 +4,9 @@ import (
 	"testing"
 
 	"github.com/afex/hystrix-go/hystrix"
-	"github.com/micro/go-micro/client"
-	"github.com/micro/go-micro/registry/mock"
-	"github.com/micro/go-micro/selector"
+  "micro/go-micro/client"
+  "micro/go-micro/registry/mock"
+  "micro/go-micro/selector"
 
 	"golang.org/x/net/context"
 )

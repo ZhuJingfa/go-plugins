@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/registry"
 	"github.com/micro/go-os/sync"
 	"github.com/micro/go-plugins/sync/etcd"
 )

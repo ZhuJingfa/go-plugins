@@ -6,7 +6,7 @@ import (
 	"strings"
 
 	"github.com/micro/cli"
-	"github.com/micro/go-micro/client"
+  "micro/go-micro/client"
 	"github.com/micro/micro/plugin"
 )
 

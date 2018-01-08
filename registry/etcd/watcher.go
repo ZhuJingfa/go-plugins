@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	etcd "github.com/coreos/etcd/client"
-	"github.com/micro/go-micro/registry"
+  "micro/go-micro/registry"
 	"golang.org/x/net/context"
 )
 
