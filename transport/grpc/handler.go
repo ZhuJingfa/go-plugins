@@ -5,7 +5,7 @@ import (
 
 	"github.com/micro/go-log"
   "micro/go-micro/transport"
-	pb "github.com/micro/go-plugins/transport/grpc/proto"
+	pb "micro/go-plugins/transport/grpc/proto"
 )
 
 // microTransport satisfies the pb.TransportServer inteface

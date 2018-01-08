@@ -11,7 +11,7 @@ import (
 	"github.com/micro/go-log"
   "micro/go-micro/registry"
 	"github.com/micro/go-os/trace"
-	"github.com/micro/go-plugins/trace/zipkin/thrift/gen-go/zipkincore"
+	"micro/go-plugins/trace/zipkin/thrift/gen-go/zipkincore"
 
 	"github.com/apache/thrift/lib/go/thrift"
 	sarama "gopkg.in/Shopify/sarama.v1"

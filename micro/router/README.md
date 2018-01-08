@@ -26,7 +26,7 @@ package main
 
 import (
 	"micro/micro/plugin"
-	"github.com/micro/go-plugins/micro/router"
+	"micro/go-plugins/micro/router"
 )
 
 func init() {

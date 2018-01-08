@@ -11,7 +11,7 @@ package main
 
 import (
 	"micro/micro/plugin"
-	"github.com/micro/go-plugins/micro/index"
+	"micro/go-plugins/micro/index"
 )
 
 func init() {
@@ -77,7 +77,7 @@ package main
 
 import (
 	"micro/micro/api"
-	"github.com/micro/go-plugins/micro/index"
+	"micro/go-plugins/micro/index"
 )
 
 func init() {

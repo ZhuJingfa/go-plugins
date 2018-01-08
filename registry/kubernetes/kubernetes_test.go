@@ -13,8 +13,8 @@ import (
   "micro/go-micro/registry"
   "micro/go-micro/selector"
   "micro/go-micro/selector/cache"
-	"github.com/micro/go-plugins/registry/kubernetes/client"
-	"github.com/micro/go-plugins/registry/kubernetes/client/mock"
+	"micro/go-plugins/registry/kubernetes/client"
+	"micro/go-plugins/registry/kubernetes/client/mock"
 )
 
 var (

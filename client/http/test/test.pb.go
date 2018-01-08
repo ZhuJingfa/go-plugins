@@ -43,7 +43,7 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/micro/go-plugins/client/http/proto/test.proto", fileDescriptor0)
+	proto.RegisterFile("micro/go-plugins/client/http/proto/test.proto", fileDescriptor0)
 }
 
 var fileDescriptor0 = []byte{

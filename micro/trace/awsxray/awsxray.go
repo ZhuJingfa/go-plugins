@@ -7,7 +7,7 @@ import (
 	"github.com/micro/cli"
 	"github.com/micro/go-awsxray"
   "micro/go-micro/client"
-	xray "github.com/micro/go-plugins/wrapper/trace/awsxray"
+	xray "micro/go-plugins/wrapper/trace/awsxray"
   "micro/micro/plugin"
 )
 

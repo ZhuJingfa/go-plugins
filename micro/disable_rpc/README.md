@@ -11,7 +11,7 @@ package main
 
 import (
 	"micro/micro/plugin"
-	rpc "github.com/micro/go-plugins/micro/disable_rpc"
+	rpc "micro/go-plugins/micro/disable_rpc"
 )
 
 func init() {
@@ -29,7 +29,7 @@ package main
 
 import (
 	"micro/micro/api"
-	rpc "github.com/micro/go-plugins/micro/disable_rpc"
+	rpc "micro/go-plugins/micro/disable_rpc"
 )
 
 func init() {

@@ -11,7 +11,7 @@ package main
 
 import (
 	"micro/micro/plugin"
-	"github.com/micro/go-plugins/micro/stats_auth"
+	"micro/go-plugins/micro/stats_auth"
 )
 
 func init() {
@@ -35,7 +35,7 @@ package main
 
 import (
 	"micro/micro/api"
-	"github.com/micro/go-plugins/micro/stats_auth"
+	"micro/go-plugins/micro/stats_auth"
 )
 
 func init() {

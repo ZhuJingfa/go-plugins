@@ -155,11 +155,11 @@ var _Transport_serviceDesc = grpc.ServiceDesc{
 			ClientStreams: true,
 		},
 	},
-	Metadata: "github.com/micro/go-plugins/transport/grpc/proto/transport.proto",
+	Metadata: "micro/go-plugins/transport/grpc/proto/transport.proto",
 }
 
 func init() {
-	proto.RegisterFile("github.com/micro/go-plugins/transport/grpc/proto/transport.proto", fileDescriptor0)
+	proto.RegisterFile("micro/go-plugins/transport/grpc/proto/transport.proto", fileDescriptor0)
 }
 
 var fileDescriptor0 = []byte{

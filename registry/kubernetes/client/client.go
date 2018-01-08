@@ -9,8 +9,8 @@ import (
 	"path"
 
 	"github.com/micro/go-log"
-	"github.com/micro/go-plugins/registry/kubernetes/client/api"
-	"github.com/micro/go-plugins/registry/kubernetes/client/watch"
+	"micro/go-plugins/registry/kubernetes/client/api"
+	"micro/go-plugins/registry/kubernetes/client/watch"
 )
 
 var (

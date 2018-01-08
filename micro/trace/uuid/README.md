@@ -11,7 +11,7 @@ package main
 
 import (
 	"micro/micro/plugin"
-	"github.com/micro/go-plugins/micro/trace/uuid"
+	"micro/go-plugins/micro/trace/uuid"
 )
 
 func init() {
@@ -29,7 +29,7 @@ package main
 
 import (
 	"micro/micro/api"
-	"github.com/micro/go-plugins/micro/trace/uuid"
+	"micro/go-plugins/micro/trace/uuid"
 )
 
 func init() {
