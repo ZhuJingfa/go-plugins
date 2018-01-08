@@ -8,7 +8,7 @@ import (
 	"github.com/micro/go-awsxray"
   "micro/go-micro/client"
 	xray "github.com/micro/go-plugins/wrapper/trace/awsxray"
-	"github.com/micro/micro/plugin"
+  "micro/micro/plugin"
 )
 
 type awsXRay struct {

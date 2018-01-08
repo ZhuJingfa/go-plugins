@@ -12,7 +12,7 @@ Register the plugin before building Micro
 package main
 
 import (
-	"github.com/micro/micro/plugin"
+	"micro/micro/plugin"
 	ip "github.com/micro/go-plugins/micro/ip_whitelist"
 )
 
@@ -36,7 +36,7 @@ For example, below you'll see the plugin registered with the API.
 package main
 
 import (
-	"github.com/micro/micro/api"
+	"micro/micro/api"
 	ip "github.com/micro/go-plugins/micro/ip_whitelist"
 )
 

@@ -7,7 +7,7 @@ import (
 
 	"github.com/micro/cli"
   "micro/go-micro/client"
-	"github.com/micro/micro/plugin"
+  "micro/micro/plugin"
 )
 
 type whitelist struct {
