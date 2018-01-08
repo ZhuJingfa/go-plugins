@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/eclipse/paho.mqtt.golang"
-	"github.com/micro/go-log"
+  "micro/go-log"
   "micro/go-micro/broker"
   "micro/go-micro/broker/codec/json"
   "micro/go-micro/cmd"

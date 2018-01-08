@@ -6,7 +6,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/micro/go-log"
+  "micro/go-log"
   "micro/go-micro/registry"
 	"micro/go-plugins/registry/kubernetes/client"
 	"micro/go-plugins/registry/kubernetes/client/watch"

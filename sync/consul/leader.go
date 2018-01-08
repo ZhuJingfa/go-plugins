@@ -7,7 +7,7 @@ import (
 
 	"github.com/hashicorp/consul/api"
   "micro/go-micro/registry"
-	sync "github.com/micro/go-os/sync"
+  sync "micro/go-os/sync"
 )
 
 type consulLeader struct {

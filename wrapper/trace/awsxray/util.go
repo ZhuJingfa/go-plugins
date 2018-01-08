@@ -6,7 +6,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/micro/go-awsxray"
+  "micro/go-awsxray"
   "micro/go-micro/errors"
   "micro/go-micro/metadata"
 	"golang.org/x/net/context"

@@ -8,7 +8,7 @@ import (
 	"os"
 	"path"
 
-	"github.com/micro/go-log"
+  "micro/go-log"
 	"micro/go-plugins/registry/kubernetes/client/api"
 	"micro/go-plugins/registry/kubernetes/client/watch"
 )

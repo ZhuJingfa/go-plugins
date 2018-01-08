@@ -13,7 +13,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-log"
+  "micro/go-log"
   "micro/go-micro/broker"
   "micro/go-micro/cmd"
   "micro/go-micro/codec"

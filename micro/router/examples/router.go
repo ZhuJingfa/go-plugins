@@ -4,9 +4,9 @@ import (
 	"net"
 	"net/http"
 
-	"github.com/micro/go-log"
-	"github.com/micro/go-os/config"
-	"github.com/micro/go-os/config/source/file"
+  "micro/go-log"
+  "micro/go-os/config"
+  "micro/go-os/config/source/file"
 	"micro/go-plugins/micro/router"
 )
 

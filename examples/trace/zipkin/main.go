@@ -2,11 +2,11 @@ package main
 
 import (
 	"fmt"
-	example "github.com/micro/examples/server/proto/example"
+  example "micro/examples/server/proto/example"
   "micro/go-micro/client"
   "micro/go-micro/cmd"
   "micro/go-micro/metadata"
-	"github.com/micro/go-os/trace"
+  "micro/go-os/trace"
 	"micro/go-plugins/trace/zipkin"
 	"golang.org/x/net/context"
 	"time"

@@ -9,10 +9,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/cli"
-	"github.com/micro/go-os/config"
-	"github.com/micro/go-os/config/source/file"
-	"github.com/micro/go-os/log"
+	"micro/cli"
+	"micro/go-os/config"
+	"micro/go-os/config/source/file"
+	"micro/go-os/log"
 	"micro/micro/plugin"
 )
 

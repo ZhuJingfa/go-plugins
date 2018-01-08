@@ -10,7 +10,7 @@ import (
 
 	"github.com/coreos/etcd/client"
   "micro/go-micro/registry"
-	psync "github.com/micro/go-os/sync"
+  psync "micro/go-os/sync"
 
 	"golang.org/x/net/context"
 )

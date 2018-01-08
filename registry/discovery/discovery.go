@@ -4,7 +4,7 @@ package discovery
 import (
   "micro/go-micro/cmd"
   "micro/go-micro/registry"
-	"github.com/micro/go-os/discovery"
+  "micro/go-os/discovery"
 )
 
 func init() {

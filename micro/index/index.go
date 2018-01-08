@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/micro/cli"
+	"micro/cli"
   "micro/micro/plugin"
 )
 

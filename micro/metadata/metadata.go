@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/micro/cli"
+  "micro/cli"
   "micro/go-micro/client"
   "micro/micro/plugin"
 )

@@ -4,7 +4,7 @@ package disable_rpc
 import (
 	"net/http"
 
-	"github.com/micro/cli"
+  "micro/cli"
   "micro/micro/plugin"
 )
 

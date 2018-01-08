@@ -42,8 +42,8 @@ Example
 
 ```go
 import (
-    "github.com/micro/broker"
-    "github.com/micro/broker/codec/noop"
+    "micro/broker"
+    "micro/broker/codec/noop"
     "micro/go-plugins/broker/mqtt"
 )
 

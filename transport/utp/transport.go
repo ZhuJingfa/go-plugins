@@ -9,9 +9,9 @@ import (
 
 	"github.com/anacrolix/utp"
   "micro/go-micro/transport"
-	maddr "github.com/micro/misc/lib/addr"
-	mnet "github.com/micro/misc/lib/net"
-	mls "github.com/micro/misc/lib/tls"
+  maddr "micro/misc/lib/addr"
+  mnet "micro/misc/lib/net"
+  mls "micro/misc/lib/tls"
 )
 
 func (u *utpTransport) Dial(addr string, opts ...transport.DialOption) (transport.Client, error) {

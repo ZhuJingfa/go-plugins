@@ -10,7 +10,7 @@ import (
   "micro/go-micro/registry"
   "micro/go-micro/selector"
 
-	proto "github.com/micro/quota-srv/proto"
+  proto "micro/quota-srv/proto"
 
 	"golang.org/x/net/context"
 )

@@ -8,9 +8,9 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/micro/go-log"
+  "micro/go-log"
   "micro/go-micro/registry"
-	"github.com/micro/go-os/trace"
+  "micro/go-os/trace"
 	"micro/go-plugins/trace/zipkin/thrift/gen-go/zipkincore"
 
 	"github.com/apache/thrift/lib/go/thrift"

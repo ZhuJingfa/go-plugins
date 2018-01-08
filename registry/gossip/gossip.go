@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/hashicorp/memberlist"
-	"github.com/micro/go-log"
+  "micro/go-log"
   "micro/go-micro/cmd"
   "micro/go-micro/registry"
 	"github.com/mitchellh/hashstructure"

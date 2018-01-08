@@ -5,7 +5,7 @@ import (
 	"time"
 
   "micro/go-micro/registry"
-	"github.com/micro/go-os/sync"
+  "micro/go-os/sync"
 	"micro/go-plugins/sync/etcd"
 )
 

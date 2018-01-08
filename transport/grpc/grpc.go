@@ -7,9 +7,9 @@ import (
 
   "micro/go-micro/cmd"
   "micro/go-micro/transport"
-	maddr "github.com/micro/misc/lib/addr"
-	mnet "github.com/micro/misc/lib/net"
-	mls "github.com/micro/misc/lib/tls"
+  maddr "micro/misc/lib/addr"
+  mnet "micro/misc/lib/net"
+  mls "micro/misc/lib/tls"
 
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials"

@@ -4,7 +4,7 @@ package stats_auth
 import (
 	"net/http"
 
-	"github.com/micro/cli"
+  "micro/cli"
   "micro/micro/plugin"
 )
 

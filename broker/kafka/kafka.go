@@ -3,7 +3,7 @@ package kafka
 
 import (
 	"github.com/Shopify/sarama"
-	"github.com/micro/go-log"
+  "micro/go-log"
   "micro/go-micro/broker"
   "micro/go-micro/broker/codec/json"
   "micro/go-micro/cmd"

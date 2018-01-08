@@ -5,8 +5,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/micro/go-log"
-	"github.com/micro/go-os/metrics"
+  "micro/go-log"
+  "micro/go-os/metrics"
 	pr "github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/push"
 )

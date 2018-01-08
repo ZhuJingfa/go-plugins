@@ -4,8 +4,8 @@ package awsxray
 import (
 	"net/http"
 
-	"github.com/micro/cli"
-	"github.com/micro/go-awsxray"
+  "micro/cli"
+  "micro/go-awsxray"
   "micro/go-micro/client"
 	xray "micro/go-plugins/wrapper/trace/awsxray"
   "micro/micro/plugin"

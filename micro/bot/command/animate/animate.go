@@ -13,7 +13,7 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/micro/go-bot/command"
+  "micro/go-bot/command"
 )
 
 var (

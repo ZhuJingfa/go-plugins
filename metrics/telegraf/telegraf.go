@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/micro/go-os/metrics"
+  "micro/go-os/metrics"
 )
 
 type telegraf struct {
