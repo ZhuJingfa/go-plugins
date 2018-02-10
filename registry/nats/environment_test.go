@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-  "micro/go-log"
-  "micro/go-micro/registry"
+	"micro/go-log"
+	"micro/go-micro/registry"
 	"micro/go-plugins/registry/nats"
 )
 

@@ -1,8 +1,8 @@
 package redis
 
 import (
-  "micro/go-os/kv"
 	redis "gopkg.in/redis.v3"
+	"micro/go-os/kv"
 )
 
 type rkv struct {

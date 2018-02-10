@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
-  "micro/go-log"
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
 	"github.com/samuel/go-zookeeper/zk"
+	"micro/go-log"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 
 	hash "github.com/mitchellh/hashstructure"
 )

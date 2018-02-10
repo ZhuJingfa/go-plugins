@@ -10,9 +10,9 @@ import (
 	"strconv"
 	"testing"
 
-  "micro/go-micro/client"
-  "micro/go-micro/registry"
-  "micro/go-micro/selector"
+	"micro/go-micro/client"
+	"micro/go-micro/registry"
+	"micro/go-micro/selector"
 	"micro/go-plugins/client/http/test"
 	"micro/go-plugins/registry/memory"
 

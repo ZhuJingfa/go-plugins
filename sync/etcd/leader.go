@@ -9,8 +9,8 @@ import (
 	"time"
 
 	"github.com/coreos/etcd/client"
-  "micro/go-micro/registry"
-  psync "micro/go-os/sync"
+	"micro/go-micro/registry"
+	psync "micro/go-os/sync"
 
 	"golang.org/x/net/context"
 )

@@ -2,8 +2,8 @@
 package noop
 
 import (
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 )
 
 type noopRegistry struct{}

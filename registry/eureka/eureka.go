@@ -12,9 +12,9 @@ import (
 	"golang.org/x/net/context"
 
 	"github.com/hudl/fargo"
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
 	"github.com/op/go-logging"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 )
 
 type fargoConnection interface {

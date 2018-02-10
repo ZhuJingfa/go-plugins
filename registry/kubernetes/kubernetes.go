@@ -12,8 +12,8 @@ import (
 
 	"micro/go-plugins/registry/kubernetes/client"
 
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 )
 
 type kregistry struct {

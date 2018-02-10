@@ -3,12 +3,12 @@ package grpc
 import (
 	"testing"
 
-  "micro/go-micro/registry/mock"
-  "micro/go-micro/server"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
+	"micro/go-micro/registry/mock"
+	"micro/go-micro/server"
 
-  pb "micro/examples/greeter/srv/proto/hello"
+	pb "micro/examples/greeter/srv/proto/hello"
 )
 
 // server is used to implement helloworld.GreeterServer.

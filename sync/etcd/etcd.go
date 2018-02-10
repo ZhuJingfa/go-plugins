@@ -5,10 +5,10 @@ import (
 	"time"
 
 	"github.com/coreos/etcd/client"
-  "micro/go-log"
-  "micro/go-micro/registry"
-  "micro/go-os/sync"
 	"github.com/pborman/uuid"
+	"micro/go-log"
+	"micro/go-micro/registry"
+	"micro/go-os/sync"
 )
 
 type etcdSync struct {

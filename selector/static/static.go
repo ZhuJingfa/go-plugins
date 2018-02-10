@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"os"
 
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
-  "micro/go-micro/selector"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
+	"micro/go-micro/selector"
 )
 
 const (

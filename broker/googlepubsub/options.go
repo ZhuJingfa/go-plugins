@@ -3,9 +3,9 @@ package googlepubsub
 import (
 	"time"
 
-  "micro/go-micro/broker"
 	"golang.org/x/net/context"
 	"google.golang.org/api/option"
+	"micro/go-micro/broker"
 )
 
 type clientOptionKey struct{}

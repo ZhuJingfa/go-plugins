@@ -1,7 +1,7 @@
 package http
 
 import (
-  "micro/go-micro/client"
+	"micro/go-micro/client"
 )
 
 type httpRequest struct {

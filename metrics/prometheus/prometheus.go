@@ -5,10 +5,10 @@ import (
 	"strings"
 	"time"
 
-  "micro/go-log"
-  "micro/go-os/metrics"
 	pr "github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/push"
+	"micro/go-log"
+	"micro/go-os/metrics"
 )
 
 type prometheus struct {

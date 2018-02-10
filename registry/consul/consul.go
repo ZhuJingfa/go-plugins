@@ -2,8 +2,8 @@
 package consul
 
 import (
-  "micro/go-micro/registry"
-  "micro/go-micro/registry/consul"
+	"micro/go-micro/registry"
+	"micro/go-micro/registry/consul"
 )
 
 /*

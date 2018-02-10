@@ -2,9 +2,9 @@
 package discovery
 
 import (
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
-  "micro/go-os/discovery"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
+	"micro/go-os/discovery"
 )
 
 func init() {

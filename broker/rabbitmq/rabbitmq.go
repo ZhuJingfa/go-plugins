@@ -2,10 +2,10 @@
 package rabbitmq
 
 import (
-  "micro/go-micro/broker"
-  "micro/go-micro/cmd"
 	"github.com/streadway/amqp"
 	"golang.org/x/net/context"
+	"micro/go-micro/broker"
+	"micro/go-micro/cmd"
 )
 
 type rbroker struct {

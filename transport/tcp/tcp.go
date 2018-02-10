@@ -9,12 +9,12 @@ import (
 	"net"
 	"time"
 
-  "micro/go-log"
-  "micro/go-micro/cmd"
-  "micro/go-micro/transport"
-  maddr "micro/misc/lib/addr"
-  mnet "micro/misc/lib/net"
-  mls "micro/misc/lib/tls"
+	"micro/go-log"
+	"micro/go-micro/cmd"
+	"micro/go-micro/transport"
+	maddr "micro/misc/lib/addr"
+	mnet "micro/misc/lib/net"
+	mls "micro/misc/lib/tls"
 )
 
 type tcpTransport struct {

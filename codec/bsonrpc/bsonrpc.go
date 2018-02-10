@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-  "micro/go-bson"
-  "micro/go-micro/codec"
+	"micro/go-bson"
+	"micro/go-micro/codec"
 )
 
 type bsonCodec struct {

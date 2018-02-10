@@ -3,10 +3,10 @@ package gobreaker
 import (
 	"testing"
 
-  "micro/go-micro/client"
-  "micro/go-micro/registry/mock"
-  "micro/go-micro/selector"
 	"github.com/sony/gobreaker"
+	"micro/go-micro/client"
+	"micro/go-micro/registry/mock"
+	"micro/go-micro/selector"
 
 	"golang.org/x/net/context"
 )

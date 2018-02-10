@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/hudl/fargo"
-  "micro/go-micro/registry"
+	"micro/go-micro/registry"
 )
 
 func appToService(app *fargo.Application) []*registry.Service {

@@ -11,8 +11,8 @@ import (
 	"net/http"
 	"net/url"
 
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 )
 
 type sidecar struct {

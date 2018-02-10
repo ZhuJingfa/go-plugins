@@ -4,8 +4,8 @@ package disable_rpc
 import (
 	"net/http"
 
-  "micro/cli"
-  "micro/micro/plugin"
+	"micro/cli"
+	"micro/micro/plugin"
 )
 
 type disable_rpc struct{}

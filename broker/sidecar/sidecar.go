@@ -8,8 +8,8 @@ import (
 	"io/ioutil"
 	"net/http"
 
-  "micro/go-micro/broker"
-  "micro/go-micro/cmd"
+	"micro/go-micro/broker"
+	"micro/go-micro/cmd"
 )
 
 type sidecar struct {

@@ -1,14 +1,14 @@
 package grpc
 
 import (
-  "micro/go-micro/broker"
-  "micro/go-micro/codec"
-  "micro/go-micro/registry"
-  "micro/go-micro/server"
-  "micro/go-micro/server/debug"
-  "micro/go-micro/transport"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
+	"micro/go-micro/broker"
+	"micro/go-micro/codec"
+	"micro/go-micro/registry"
+	"micro/go-micro/server"
+	"micro/go-micro/server/debug"
+	"micro/go-micro/transport"
 )
 
 type codecsKey struct{}

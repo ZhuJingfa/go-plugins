@@ -1,7 +1,7 @@
 package zipkin
 
 import (
-  "micro/go-os/trace"
+	"micro/go-os/trace"
 )
 
 func SpanFromHeader(md map[string]string) (*trace.Span, bool) {

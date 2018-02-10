@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"reflect"
 
-  "micro/go-micro/broker"
-  "micro/go-micro/codec"
-  "micro/go-micro/metadata"
-  "micro/go-micro/registry"
-  "micro/go-micro/server"
 	"golang.org/x/net/context"
+	"micro/go-micro/broker"
+	"micro/go-micro/codec"
+	"micro/go-micro/metadata"
+	"micro/go-micro/registry"
+	"micro/go-micro/server"
 )
 
 const (

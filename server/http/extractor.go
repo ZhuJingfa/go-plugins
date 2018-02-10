@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-  "micro/go-micro/registry"
-  "micro/go-micro/server"
+	"micro/go-micro/registry"
+	"micro/go-micro/server"
 )
 
 var (

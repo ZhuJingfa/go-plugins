@@ -4,8 +4,8 @@ import (
 	"sync"
 
 	etcd "github.com/coreos/etcd/client"
-  "micro/go-micro/registry"
 	"golang.org/x/net/context"
+	"micro/go-micro/registry"
 )
 
 type etcdWatcher struct {

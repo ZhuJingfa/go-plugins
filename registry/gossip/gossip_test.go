@@ -3,7 +3,7 @@ package gossip
 import (
 	"testing"
 
-  "micro/go-micro/registry"
+	"micro/go-micro/registry"
 )
 
 func TestDelServices(t *testing.T) {

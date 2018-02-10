@@ -1,8 +1,8 @@
 package nats
 
 import (
-  "micro/go-micro/registry"
 	"golang.org/x/net/context"
+	"micro/go-micro/registry"
 )
 
 type contextQuorumKey struct{}

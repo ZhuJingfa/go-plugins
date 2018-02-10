@@ -6,8 +6,8 @@ import (
 	mtx "sync"
 
 	"github.com/hashicorp/consul/api"
-  "micro/go-micro/registry"
-  sync "micro/go-os/sync"
+	"micro/go-micro/registry"
+	sync "micro/go-os/sync"
 )
 
 type consulLeader struct {

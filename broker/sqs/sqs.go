@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/aws/aws-sdk-go/aws/awserr"
-  "micro/go-log"
-  "micro/go-micro/broker"
-  "micro/go-micro/cmd"
 	"golang.org/x/net/context"
+	"micro/go-log"
+	"micro/go-micro/broker"
+	"micro/go-micro/cmd"
 )
 
 const (

@@ -7,7 +7,7 @@ import (
 	"sort"
 	"testing"
 
-  "micro/go-micro/broker"
+	"micro/go-micro/broker"
 )
 
 func subscribe(t *testing.T, b broker.Broker, topic string, handle broker.Handler) broker.Subscriber {

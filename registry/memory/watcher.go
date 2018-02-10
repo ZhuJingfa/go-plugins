@@ -3,7 +3,7 @@ package memory
 import (
 	"errors"
 
-  "micro/go-micro/registry"
+	"micro/go-micro/registry"
 )
 
 type memoryWatcher struct {

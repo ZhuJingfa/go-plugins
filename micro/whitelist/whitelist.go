@@ -5,9 +5,9 @@ import (
 	"net/http"
 	"strings"
 
-  "micro/cli"
-  "micro/go-micro/client"
-  "micro/micro/plugin"
+	"micro/cli"
+	"micro/go-micro/client"
+	"micro/micro/plugin"
 )
 
 type whitelist struct {

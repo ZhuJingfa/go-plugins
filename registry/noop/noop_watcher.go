@@ -3,7 +3,7 @@ package noop
 import (
 	"errors"
 
-  "micro/go-micro/registry"
+	"micro/go-micro/registry"
 )
 
 type noopWatcher struct {

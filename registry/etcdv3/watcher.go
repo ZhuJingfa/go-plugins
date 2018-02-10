@@ -5,8 +5,8 @@ import (
 	"time"
 
 	"github.com/coreos/etcd/clientv3"
-  "micro/go-micro/registry"
 	"golang.org/x/net/context"
+	"micro/go-micro/registry"
 )
 
 type etcdv3Watcher struct {

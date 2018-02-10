@@ -3,7 +3,7 @@ package gossip
 import (
 	"errors"
 
-  "micro/go-micro/registry"
+	"micro/go-micro/registry"
 )
 
 type gossipWatcher struct {

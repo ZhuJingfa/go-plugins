@@ -13,9 +13,9 @@ import (
 	"time"
 
 	etcd "github.com/coreos/etcd/client"
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
 	"golang.org/x/net/context"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 )
 
 var (

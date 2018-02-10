@@ -2,9 +2,9 @@
 package grpc
 
 import (
-  "micro/go-micro/client"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
+	"micro/go-micro/client"
 )
 
 type codecsKey struct{}

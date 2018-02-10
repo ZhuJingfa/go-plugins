@@ -3,8 +3,8 @@ package bsonrpc
 import (
 	"io"
 
-  "micro/go-bson"
-  "micro/go-micro/codec"
+	"micro/go-bson"
+	"micro/go-micro/codec"
 )
 
 const (

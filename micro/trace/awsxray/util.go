@@ -8,7 +8,7 @@ import (
 	"strings"
 	"time"
 
-  "micro/go-awsxray"
+	"micro/go-awsxray"
 )
 
 // complete sets the response status and end time

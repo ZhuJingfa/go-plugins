@@ -2,8 +2,8 @@
 package mdns
 
 import (
-  "micro/go-micro/registry"
-  "micro/go-micro/registry/mdns"
+	"micro/go-micro/registry"
+	"micro/go-micro/registry/mdns"
 )
 
 /*

@@ -9,8 +9,8 @@ import (
 	"net/url"
 	"testing"
 
-  "micro/go-os/config"
-  "micro/go-os/config/source/memory"
+	"micro/go-os/config"
+	"micro/go-os/config/source/memory"
 )
 
 func TestRouter(t *testing.T) {

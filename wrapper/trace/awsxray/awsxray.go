@@ -2,10 +2,10 @@
 package awsxray
 
 import (
-  "micro/go-awsxray"
-  "micro/go-micro/client"
-  "micro/go-micro/server"
 	"golang.org/x/net/context"
+	"micro/go-awsxray"
+	"micro/go-micro/client"
+	"micro/go-micro/server"
 )
 
 type xrayWrapper struct {

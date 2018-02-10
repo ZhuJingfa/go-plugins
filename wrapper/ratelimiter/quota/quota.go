@@ -5,12 +5,12 @@ import (
 	"fmt"
 	"hash/crc32"
 
-  "micro/go-micro/client"
-  "micro/go-micro/errors"
-  "micro/go-micro/registry"
-  "micro/go-micro/selector"
+	"micro/go-micro/client"
+	"micro/go-micro/errors"
+	"micro/go-micro/registry"
+	"micro/go-micro/selector"
 
-  proto "micro/quota-srv/proto"
+	proto "micro/quota-srv/proto"
 
 	"golang.org/x/net/context"
 )

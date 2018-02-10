@@ -5,8 +5,8 @@ import (
 	"path"
 	"strings"
 
-  "micro/go-micro/registry"
 	"github.com/samuel/go-zookeeper/zk"
+	"micro/go-micro/registry"
 )
 
 func encode(s *registry.Service) ([]byte, error) {

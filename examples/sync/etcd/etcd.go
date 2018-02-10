@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"time"
 
-  "micro/go-micro/registry"
-  "micro/go-os/sync"
+	"micro/go-micro/registry"
+	"micro/go-os/sync"
 	"micro/go-plugins/sync/etcd"
 )
 

@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"strings"
 
-  "micro/go-micro/registry"
+	"micro/go-micro/registry"
 )
 
 var (

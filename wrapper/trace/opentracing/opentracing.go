@@ -4,11 +4,11 @@ package opentracing
 import (
 	"fmt"
 
-  "micro/go-micro/client"
-  "micro/go-micro/metadata"
-  "micro/go-micro/server"
 	"github.com/opentracing/opentracing-go"
 	"golang.org/x/net/context"
+	"micro/go-micro/client"
+	"micro/go-micro/metadata"
+	"micro/go-micro/server"
 )
 
 type otWrapper struct {

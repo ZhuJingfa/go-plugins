@@ -2,7 +2,7 @@ package hystrix
 
 import (
 	"github.com/afex/hystrix-go/hystrix"
-  "micro/go-micro/client"
+	"micro/go-micro/client"
 
 	"golang.org/x/net/context"
 )

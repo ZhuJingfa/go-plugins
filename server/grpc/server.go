@@ -15,8 +15,8 @@ import (
 
 	"golang.org/x/net/context"
 
-  "micro/go-log"
-  "micro/go-micro/server"
+	"micro/go-log"
+	"micro/go-micro/server"
 )
 
 var (

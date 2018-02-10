@@ -6,13 +6,13 @@ import (
 	"strings"
 	"testing"
 
-  "micro/go-micro/client"
-  "micro/go-micro/registry"
-  "micro/go-micro/registry/mock"
-  "micro/go-micro/selector"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 	pb "google.golang.org/grpc/examples/helloworld/helloworld"
+	"micro/go-micro/client"
+	"micro/go-micro/registry"
+	"micro/go-micro/registry/mock"
+	"micro/go-micro/selector"
 )
 
 // server is used to implement helloworld.GreeterServer.

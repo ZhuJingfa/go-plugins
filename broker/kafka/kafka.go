@@ -3,12 +3,12 @@ package kafka
 
 import (
 	"github.com/Shopify/sarama"
-  "micro/go-log"
-  "micro/go-micro/broker"
-  "micro/go-micro/broker/codec/json"
-  "micro/go-micro/cmd"
 	"github.com/pborman/uuid"
 	sc "gopkg.in/bsm/sarama-cluster.v2"
+	"micro/go-log"
+	"micro/go-micro/broker"
+	"micro/go-micro/broker/codec/json"
+	"micro/go-micro/cmd"
 )
 
 type kBroker struct {

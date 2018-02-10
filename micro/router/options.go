@@ -1,7 +1,7 @@
 package router
 
 import (
-  "micro/go-os/config"
+	"micro/go-os/config"
 )
 
 type Options struct {

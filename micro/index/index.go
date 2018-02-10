@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"micro/cli"
-  "micro/micro/plugin"
+	"micro/micro/plugin"
 )
 
 type index struct {

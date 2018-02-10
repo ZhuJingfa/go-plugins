@@ -1,7 +1,7 @@
 package nsq
 
 import (
-  "micro/go-micro/broker"
+	"micro/go-micro/broker"
 
 	"golang.org/x/net/context"
 )

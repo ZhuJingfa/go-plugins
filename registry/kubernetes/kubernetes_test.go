@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-  "micro/go-log"
-  "micro/go-micro/registry"
-  "micro/go-micro/selector"
-  "micro/go-micro/selector/cache"
+	"micro/go-log"
+	"micro/go-micro/registry"
+	"micro/go-micro/selector"
+	"micro/go-micro/selector/cache"
 	"micro/go-plugins/registry/kubernetes/client"
 	"micro/go-plugins/registry/kubernetes/client/mock"
 )

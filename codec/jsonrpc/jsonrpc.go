@@ -4,8 +4,8 @@ package jsonrpc
 import (
 	"io"
 
-  "micro/go-micro/codec"
-  "micro/go-micro/codec/jsonrpc"
+	"micro/go-micro/codec"
+	"micro/go-micro/codec/jsonrpc"
 )
 
 /*

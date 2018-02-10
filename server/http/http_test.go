@@ -6,9 +6,9 @@ import (
 	"net/http"
 	"testing"
 
-  "micro/go-micro/registry"
-  "micro/go-micro/registry/mock"
-  "micro/go-micro/server"
+	"micro/go-micro/registry"
+	"micro/go-micro/registry/mock"
+	"micro/go-micro/server"
 )
 
 func TestHTTPServer(t *testing.T) {

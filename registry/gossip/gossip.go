@@ -9,11 +9,11 @@ import (
 	"time"
 
 	"github.com/hashicorp/memberlist"
-  "micro/go-log"
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
 	"github.com/mitchellh/hashstructure"
 	"github.com/pborman/uuid"
+	"micro/go-log"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 )
 
 type action int

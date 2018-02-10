@@ -1,8 +1,8 @@
 package cache
 
 import (
-  "micro/go-micro/selector"
-  "micro/go-micro/selector/cache"
+	"micro/go-micro/selector"
+	"micro/go-micro/selector/cache"
 )
 
 /*

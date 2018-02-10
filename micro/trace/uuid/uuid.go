@@ -4,9 +4,9 @@ package uuid
 import (
 	"net/http"
 
-  "micro/cli"
-  "micro/micro/plugin"
 	"github.com/pborman/uuid"
+	"micro/cli"
+	"micro/micro/plugin"
 )
 
 type uuidPlugin struct{}

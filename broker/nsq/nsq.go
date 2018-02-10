@@ -6,11 +6,11 @@ import (
 	"sync"
 	"time"
 
-  "micro/go-micro/broker"
-  "micro/go-micro/broker/codec/json"
-  "micro/go-micro/cmd"
 	"github.com/nsqio/go-nsq"
 	"github.com/pborman/uuid"
+	"micro/go-micro/broker"
+	"micro/go-micro/broker/codec/json"
+	"micro/go-micro/cmd"
 )
 
 type nsqBroker struct {

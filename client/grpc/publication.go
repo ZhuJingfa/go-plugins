@@ -1,7 +1,7 @@
 package grpc
 
 import (
-  "micro/go-micro/client"
+	"micro/go-micro/client"
 )
 
 type grpcPublication struct {

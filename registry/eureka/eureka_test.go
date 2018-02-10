@@ -8,7 +8,7 @@ import (
 	"golang.org/x/net/context"
 
 	"github.com/hudl/fargo"
-  "micro/go-micro/registry"
+	"micro/go-micro/registry"
 	"micro/go-plugins/registry/eureka/mock"
 )
 

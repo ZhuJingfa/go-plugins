@@ -5,10 +5,10 @@ import (
 	"sync"
 	"time"
 
-  "micro/go-micro/cmd"
-  "micro/go-micro/registry"
 	"github.com/pborman/uuid"
 	"golang.org/x/net/context"
+	"micro/go-micro/cmd"
+	"micro/go-micro/registry"
 )
 
 type memoryRegistry struct {

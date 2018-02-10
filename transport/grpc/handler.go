@@ -3,8 +3,8 @@ package grpc
 import (
 	"runtime/debug"
 
-  "micro/go-log"
-  "micro/go-micro/transport"
+	"micro/go-log"
+	"micro/go-micro/transport"
 	pb "micro/go-plugins/transport/grpc/proto"
 )
 

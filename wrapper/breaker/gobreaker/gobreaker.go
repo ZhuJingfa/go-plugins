@@ -1,8 +1,8 @@
 package gobreaker
 
 import (
-  "micro/go-micro/client"
 	"github.com/sony/gobreaker"
+	"micro/go-micro/client"
 
 	"golang.org/x/net/context"
 )

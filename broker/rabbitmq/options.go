@@ -1,8 +1,8 @@
 package rabbitmq
 
 import (
-  "micro/go-micro/broker"
 	"golang.org/x/net/context"
+	"micro/go-micro/broker"
 )
 
 type durableQueueKey struct{}

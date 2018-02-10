@@ -6,12 +6,12 @@ import (
 	"time"
 
 	"github.com/juju/ratelimit"
-  "micro/go-micro/client"
-  "micro/go-micro/errors"
-  "micro/go-micro/registry/mock"
-  "micro/go-micro/selector"
-  "micro/go-micro/server"
 	"golang.org/x/net/context"
+	"micro/go-micro/client"
+	"micro/go-micro/errors"
+	"micro/go-micro/registry/mock"
+	"micro/go-micro/selector"
+	"micro/go-micro/server"
 )
 
 type testHandler struct{}

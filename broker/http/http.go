@@ -2,8 +2,8 @@
 package http
 
 import (
-  "micro/go-micro/broker"
-  "micro/go-micro/broker/http"
+	"micro/go-micro/broker"
+	"micro/go-micro/broker/http"
 )
 
 /*

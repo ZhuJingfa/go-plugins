@@ -4,8 +4,8 @@ package stats_auth
 import (
 	"net/http"
 
-  "micro/cli"
-  "micro/micro/plugin"
+	"micro/cli"
+	"micro/micro/plugin"
 )
 
 const (

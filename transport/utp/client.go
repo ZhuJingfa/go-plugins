@@ -3,7 +3,7 @@ package utp
 import (
 	"time"
 
-  "micro/go-micro/transport"
+	"micro/go-micro/transport"
 )
 
 func (u *utpClient) Send(m *transport.Message) error {

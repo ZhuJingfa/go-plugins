@@ -4,10 +4,10 @@ package nats
 import (
 	"strings"
 
-  "micro/go-micro/broker"
-  "micro/go-micro/broker/codec/json"
-  "micro/go-micro/cmd"
 	"github.com/nats-io/nats"
+	"micro/go-micro/broker"
+	"micro/go-micro/broker/codec/json"
+	"micro/go-micro/cmd"
 )
 
 type nbroker struct {

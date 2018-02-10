@@ -8,10 +8,10 @@ import (
 	"sync"
 	"time"
 
-  "micro/go-micro/cmd"
-  "micro/go-micro/transport"
-  "micro/go-micro/transport/codec/json"
 	"github.com/nats-io/nats"
+	"micro/go-micro/cmd"
+	"micro/go-micro/transport"
+	"micro/go-micro/transport/codec/json"
 )
 
 type ntport struct {

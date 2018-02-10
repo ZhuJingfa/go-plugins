@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-  "micro/go-micro/codec"
 	"github.com/tinylib/msgp/msgp"
+	"micro/go-micro/codec"
 )
 
 type msgpackCodec struct {

@@ -2,8 +2,8 @@
 package http
 
 import (
-  "micro/go-micro/transport"
-  "micro/go-micro/transport/http"
+	"micro/go-micro/transport"
+	"micro/go-micro/transport/http"
 )
 
 /*
